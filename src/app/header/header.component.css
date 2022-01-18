@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #EF924F;
+    font-family: 'Roboto Slab Regular';
+    color: white;
+}
+
+.container{
+    width: 100%;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin: auto;
+    padding: 0;
+}
+
+.name{
+    margin: 0;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.active{
+    text-decoration: underline;
+}
